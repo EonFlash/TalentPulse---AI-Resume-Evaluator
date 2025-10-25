@@ -1,5 +1,6 @@
 import streamlit as st
 import time
+from evaluator.workflows import*
 
 st.set_page_config(page_title="Talent Pulse - Evaluate your resume", layout="wide")
 st.title(":blue[_Talent Pulse_] - Evaluate your resume")
@@ -28,7 +29,14 @@ with st.form("Upload form"):
 
                 # Stage 2
                 status.markdown("🔍 **Parsing sections & scoring...**")
-                time.sleep(1.5)
+                # time.sleep(1.5)
+                print("Inside App.py :")
+                print("Fetching data....")
+                ini_state = get_initial_state()
+                print("Data Fetched")
+                print("Ecxecuting workflow....")
+                workflow_1(ini_state)
+                print("Ecxecuting workflow Finished!!..Check the results.json")
                 progress.progress(55)
 
                 # Stage 3

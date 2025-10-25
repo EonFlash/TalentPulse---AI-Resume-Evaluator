@@ -1,0 +1,41 @@
+Name: Karan Verma
+Email: karan.verma.test@example.com
+Phone: +91-98765-43210
+Location: Bengaluru, India
+Total Experience: 6 years
+
+Professional Summary
+Result-driven Data Engineer with 6 years of experience building ETL pipelines, data warehouses and analytics platforms. Strong background in Python, SQL, Spark and cloud data services. Proven track record delivering production-ready data products that improved reporting speed and data quality.
+
+Work Experience
+Senior Data Engineer — Nimbus Analytics, Bengaluru
+Jan 2022 — Present
+- Designed and implemented Spark-based ETL pipelines to process 500M+ records/week.
+- Migrated legacy data pipelines to cloud infrastructure (AWS Redshift + S3), reducing job runtime by 45%.
+- Built data quality monitoring and alerting using Airflow and Great Expectations.
+
+Data Engineer — BlueByte Solutions, Pune
+Jul 2019 — Dec 2021
+- Developed scalable ingestion pipelines using Python, Kafka and Spark.
+- Created dimensional models and optimized queries for BI reporting, improving dashboard latency by 30%.
+- Collaborated with ML team to operationalize feature stores.
+
+Associate Data Engineer — TechNova, Hyderabad
+Jun 2017 — Jun 2019
+- Built automated data validation and ingestion processes.
+- Wrote reusable SQL transformations and scheduled jobs with Apache Airflow.
+
+Education
+B.Tech, Computer Science — Visvesvaraya Technological University
+2013 — 2017
+
+Skills
+- Languages: Python, SQL
+- Big Data: Apache Spark, Kafka
+- Orchestration: Apache Airflow
+- Cloud: AWS (S3, Redshift, EMR)
+- Tools: dbt, Great Expectations, Git
+
+Certifications
+- AWS Certified Data Analytics – Specialty (mock)
+- Databricks Certified Associate Developer for Apache Spark (mock)

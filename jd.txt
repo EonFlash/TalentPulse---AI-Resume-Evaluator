@@ -1,0 +1,27 @@
+Job Title: Senior Data Engineer
+Location: Bengaluru, India
+Experience: 5–7 years
+
+Responsibilities:
+
+Design, develop, and maintain ETL pipelines and data workflows.
+
+Work with large-scale data in AWS Redshift, S3, and Spark.
+
+Optimize data storage and retrieval for BI reporting and analytics.
+
+Collaborate with ML and analytics teams to build feature stores and dashboards.
+
+Implement data quality monitoring using Airflow and Great Expectations.
+
+Requirements:
+
+Strong proficiency in Python and SQL.
+
+Experience with Apache Spark, Kafka, and Airflow.
+
+Knowledge of cloud platforms, preferably AWS.
+
+Familiarity with dbt, Git, and version control workflows.
+
+Excellent problem-solving and communication skills.
