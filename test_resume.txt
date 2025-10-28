@@ -39,3 +39,4 @@ Skills
 Certifications
 - AWS Certified Data Analytics – Specialty (mock)
 - Databricks Certified Associate Developer for Apache Spark (mock)
+

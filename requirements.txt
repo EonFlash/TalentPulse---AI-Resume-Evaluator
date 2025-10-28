@@ -2,3 +2,5 @@ streamlit
 langgraph
 langchain-google-genai
 dotenv
+pypdf
+streamlit-option-menu

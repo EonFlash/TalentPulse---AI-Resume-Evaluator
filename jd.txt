@@ -1,27 +1,16 @@
-Job Title: Senior Data Engineer
+Job Title: UI/UX Designer
 Location: Bengaluru, India
-Experience: 5–7 years
+Experience: 3–5 years
 
 Responsibilities:
-
-Design, develop, and maintain ETL pipelines and data workflows.
-
-Work with large-scale data in AWS Redshift, S3, and Spark.
-
-Optimize data storage and retrieval for BI reporting and analytics.
-
-Collaborate with ML and analytics teams to build feature stores and dashboards.
-
-Implement data quality monitoring using Airflow and Great Expectations.
+Design engaging and responsive web and mobile interfaces.
+Create wireframes, prototypes, and mockups for client approval.
+Collaborate with product managers and developers to implement designs.
+Conduct user research and usability testing.
+Ensure consistency across all design touchpoints.
 
 Requirements:
-
-Strong proficiency in Python and SQL.
-
-Experience with Apache Spark, Kafka, and Airflow.
-
-Knowledge of cloud platforms, preferably AWS.
-
-Familiarity with dbt, Git, and version control workflows.
-
-Excellent problem-solving and communication skills.
+Proficiency in Figma, Adobe XD, or Sketch.
+Strong portfolio showcasing design projects.
+Understanding of front-end technologies (HTML, CSS, JavaScript) is a plus.
+Excellent creativity, communication, and teamwork skills.

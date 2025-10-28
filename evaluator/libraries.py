@@ -6,4 +6,5 @@ from dotenv import load_dotenv
 from pydantic import BaseModel,Field
 
 import os,json
+from pypdf import PdfReader
 load_dotenv()
